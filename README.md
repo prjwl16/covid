@@ -5,7 +5,9 @@ To run this project you will need database. (mongoDB)
 You must install node and Node package manager (npm)
 
 For Database you will need either MongoDB web (atlas) or mongodb installed on your machine.
-After this you will need to connect you database to your web application ( Watch Youtube video or search on google -- How to connect mongoDB to nodeJS)
+After this you will need to connect you database to your web application
+(import users.json file in your mongoDB)
+( Watch Youtube video or search on google -- How to connect mongoDB to nodeJS)
 You will need to paste your connection string into .env file.
 
 steps--->
